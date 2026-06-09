@@ -128,11 +128,10 @@ Home
 
 ## Technologies Used
 
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Design Principles
-
+* ChatGPT (Content Generation & Website Copywriting)
+* AI-Assisted Design Planning
+* Website Layout Conceptualization
+* Content Strategy & Branding
 ---
 
 ## Future Enhancements
